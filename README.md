@@ -41,7 +41,7 @@ Leave the passphrase field empty (:<br />
 
 > We get a `base-64` encoded txt file<br />
 
-To encode it we can do-<br />
+To decode it we can do-<br />
 
 `cat b64.txt | base64 -d > decodedB64`<br />
 
