@@ -123,13 +123,13 @@ To foreground the process<br />
 ![image](images/key.png)
 
 ```
-b'-VkgXhFf6sAEcAwrC6YR-SZbiuSb8ABXeQuvhcGSQzY='
+b'...........................................='
 ```
 
 2. What is Charlie's password?<br />
 
 ```
-cn7824
+c....4
 ```
 
 3. change user to charlie<br />
