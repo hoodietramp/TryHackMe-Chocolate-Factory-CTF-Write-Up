@@ -45,7 +45,7 @@ To encode it we can do-<br />
 
 `cat b64.txt | base64 -d > decodedB64`<br />
 
-![image](charlieHash.png)
+![image](images/charlieHash.png)
 
 Yay we get charlie user's hash, we can crack it using john/hashcat<br />
 
