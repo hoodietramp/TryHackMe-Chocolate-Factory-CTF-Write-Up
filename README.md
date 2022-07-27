@@ -165,9 +165,12 @@ flag{cd..............................}
 
 ![image](images/sudo.png)
 
-We found `/usr/bin/vi`, cool we can go-ahead and check [GTFO-BIN]() for vi-<br />
+We found `/usr/bin/vi`, cool we can go-ahead and check [GTFO-BIN](https://gtfobins.github.io/gtfobins/vi/#sudo) for vi-<br />
 
 ![image](images/gtfo.png)
+
+`sudo vi -c ':!/bin/sh' /dev/null`<br />
+
 
 Ay, we are root `#` let's get our root flag<br />
 
