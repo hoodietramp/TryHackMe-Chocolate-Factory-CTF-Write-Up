@@ -62,7 +62,7 @@ john charlieHASH --w=/usr/share/wordlists/rockyou.txt
 > We got the charlie's pass - <br />
 
 ```
-cn7824
+c...4
 ```
 
 But we can't login via ssh with these creds, now i did a gobuster scan to find subdirectories (:<br />
